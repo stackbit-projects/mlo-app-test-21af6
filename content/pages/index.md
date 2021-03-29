@@ -7,7 +7,7 @@ sections:
     content: >-
       No more searching different websites or marketplaces to feel good about buying local.  Add any locally owned business you shop from in your neighbourhood.
     actions:
-      - label: Add Local Stores
+      - label: Shop Local
         url: /pricing
         style: primary
       - label: Google Play
