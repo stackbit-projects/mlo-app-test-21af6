@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Start",
+                "label": "Find Stores",
                 "url": "/pricing",
                 "style": "primary"
             },
