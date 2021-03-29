@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "#ShopLocal' just got easier
+    title: '#ShopLocal' just got easier
     subtitle: Manage all the local vendors you shop from and want to support.
     content: >-
       Organize the stores you already buy from and discover new ones near you.  Order from many stores all in one shopping cart. 
