@@ -2,7 +2,7 @@
 title: Team
 seo:
   title: Team
-  description: This is the  us page
+  description: This is the team page
   extra:
     - name: 'og:type'
       value: website
