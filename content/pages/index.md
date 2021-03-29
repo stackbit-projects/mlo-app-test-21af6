@@ -5,9 +5,7 @@ sections:
     title: Shopping locally just got easier
     subtitle: Manage all the local vendors you shop from and want to support.
     content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      MyLocalOrder.com 
     actions:
       - label: App Store
         url: /pricing
