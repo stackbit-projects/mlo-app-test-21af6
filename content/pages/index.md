@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shopping locally just got easier
-    subtitle: Add the 
+    subtitle: Manage all the local vendors 
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
