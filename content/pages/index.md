@@ -7,7 +7,7 @@ sections:
     content: >-
       No more searching different websites or marketplaces to feel good about buying local.  Add any locally owned business you shop from in your neighbourhood.
     actions:
-      - label: Shop Local
+      - label: Find Stores Near You
         url: /pricing
         style: primary
       - label: Open A Store
