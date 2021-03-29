@@ -5,7 +5,7 @@ sections:
     title: Shop Local just got easier
     subtitle: Order from many local stores all in one shopping cart.
     content: >-
-      No more searching different websites or marketplaces to feel good about buying local.  Add any business you shop from
+      No more searching different websites or marketplaces to feel good about buying local.  Add any business you shop from in your neighbourd
     actions:
       - label: App Store
         url: /pricing
