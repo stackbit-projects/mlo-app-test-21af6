@@ -10,7 +10,7 @@ sections:
       - label: Shop Local
         url: /pricing
         style: primary
-      - label: 
+      - label: Open A Store
         url: /pricing
         style: secondary
     image: images/hero.svg
