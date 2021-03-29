@@ -157,7 +157,7 @@ sections:
       - label: Find Stores Near You
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Add Your Store
         url: /pricing
         style: secondary
         has_icon: false
