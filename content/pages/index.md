@@ -5,7 +5,7 @@ sections:
     title: Shopping locally just got easier
     subtitle: Manage all the local vendors you shop from and want to support.
     content: >-
-      MyLocalOrder.com helps you organize the stores you already buy from 
+      MyLocalOrder.com helps you organize the stores you already buy from and discover new ones.  On
     actions:
       - label: App Store
         url: /pricing
