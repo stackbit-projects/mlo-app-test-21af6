@@ -5,7 +5,7 @@ sections:
     title: Shop Local just got easier
     subtitle: Order from many local stores all in one shopping cart.
     content: >-
-      Organize the stores you already buy from and discover new ones near you.  Start with 
+      Organize the stores you already buy from and discover new ones near you.
     actions:
       - label: App Store
         url: /pricing
