@@ -5,7 +5,7 @@ sections:
     title: Shop Local just got easier
     subtitle: Order from many local stores all in one shopping cart.
     content: >-
-      No more searching different websites
+      No more searching different websites or marketplaces
     actions:
       - label: App Store
         url: /pricing
