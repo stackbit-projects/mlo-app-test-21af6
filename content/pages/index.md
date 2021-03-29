@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Shopping Locally just got easier
-    subtitle: Order from many local stores all in one shopping cart.
+    subtitle: Order from your favourite local stores all in one shopping cart.
     content: >-
       No more searching different websites or marketplaces to feel good about
       buying local.  Add any locally owned business you shop from in your
