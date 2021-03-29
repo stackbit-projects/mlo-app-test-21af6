@@ -11,7 +11,7 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the team us page
+      value: This is the teamm us page
       keyName: property
     - name: 'og:image'
       value: images/team.jpg
