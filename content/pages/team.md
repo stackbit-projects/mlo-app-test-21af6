@@ -1,7 +1,7 @@
 ---
 title: Team
 seo:
-  title: About
+  title: Team
   description: This is the about us page
   extra:
     - name: 'og:type'
