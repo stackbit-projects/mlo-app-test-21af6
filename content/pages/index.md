@@ -5,7 +5,7 @@ sections:
     title: Shop Local just got easier
     subtitle: Order from many stores all in one shopping cart.
     content: >-
-      Organize the stores you already buy from and discover new ones near you.  Order from many stores all in one shopping cart. 
+      Organize the stores you already buy from and discover new ones near you.  Order from many stores all in one shopping cart. Manage the local vendors you shop from and want to support.
     actions:
       - label: App Store
         url: /pricing
