@@ -10,7 +10,7 @@ sections:
       - label: Shop Local
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: 
         url: /pricing
         style: secondary
     image: images/hero.svg
