@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Shopping Local just got easier
+    title: Shopping Locally just got easier
     subtitle: Order from many local stores all in one shopping cart.
     content: >-
       No more searching different websites or marketplaces to feel good about
