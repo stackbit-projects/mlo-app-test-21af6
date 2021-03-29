@@ -5,7 +5,9 @@ sections:
     title: Shop Local just got easier
     subtitle: Order from many local stores all in one shopping cart.
     content: >-
-      No more searching different websites or marketplaces to feel good about buying local.  Add any locally owned business you shop from in your neighbourhood.
+      No more searching different websites or marketplaces to feel good about
+      buying local.  Add any locally owned business you shop from in your
+      neighbourhood.
     actions:
       - label: Find Stores Near You
         url: /pricing
@@ -152,7 +154,7 @@ sections:
       Download App Land now and connect with all your calendars, project
       management tools and task lists — it doesn't get easier than this!
     actions:
-      - label: App Store
+      - label: Find Stores Near You
         url: /pricing
         style: primary
       - label: Google Play
