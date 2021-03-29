@@ -150,9 +150,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Your Own Personal Shop Local List
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: |
+      Free for shoppers. Free for merchants\*.  What could be better than that?
     actions:
       - label: Find Stores Near You
         url: /pricing
